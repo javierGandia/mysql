@@ -1,0 +1,14 @@
+usuario: javier
+Contraseña: password
+
+Base de datos: redis
+
+tabla: contador 
+columna: contador_id INT
+columna: ip varchar 10
+columna: visitas varchar(50)
+
+
+
+
+
